@@ -43,4 +43,10 @@ TikTok is asking for a project proposal that will create milestones for the task
   
 ## 🎯 Assignment - 2
 
+TikTok’s data team is in the earliest stages of the claims classification project. The following tasks are needed before the team can begin the data analysis process:
+
+- Build a DataFrame for the Churn Dataset
+- Examine Data Type of Each Column
+- Gather Descriptive Statistics
+
   ----------------------------
